@@ -9,6 +9,8 @@ Custom Lenses can be fully built out and then exported in the JSON format to eas
 
 This tool follows the specifications outlined in the link here: https://docs.aws.amazon.com/wellarchitected/latest/userguide/lenses-format-specification.html	
 
+
+
 <b>Workloads to preview Custom lenses and perform reviews</b>
 
 Using this tool you can also preview workloads to perform a review, or use this tool as a standalone tool to perform a review. While there are advantages to using the AWS Well achitected tool, especially if you are developing workloads in AWS, reviewing a workload in this tool can be used independently.
