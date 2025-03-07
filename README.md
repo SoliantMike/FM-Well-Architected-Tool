@@ -20,9 +20,9 @@ Custom Lenses are best when you take the time to build out helpful resources and
 What is a Workload? It depends on several factors, including your point of view, what priorities you may have set, and how you define the scope of the review. It can include a human component and include nontechnical objectives.
 
 Reviews should be 
- • Collaborative: working together with stakeholders to improve
- • Prescriptive: based on pragmatic, proven advice
- • Recurring: occur throughout the lifecycle of a workload
+ • Collaborative: working together with stakeholders to improve<br />
+ • Prescriptive: based on pragmatic, proven advice<br />
+ • Recurring: occur throughout the lifecycle of a workload<br />
 
 Reviews are meant to by cyclical, where you perform the review to identify areas of improvement, then repeat the process to continually monitor and continue to improve workloads.
 
