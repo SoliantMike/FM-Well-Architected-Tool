@@ -31,3 +31,4 @@ Credentials for the sample file:
 
 admin/admin
 
+Also included are two custom lenses that can be used in evaluating workloads, or referenced when building your own custom lenses. Special thanks to Mislav Kos for contributing to development of both this file and building a custom lens.
